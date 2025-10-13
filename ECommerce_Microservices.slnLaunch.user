@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "Services\\ECommerce.Services.CouponAPI\\ECommerce.Services.CouponAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontEnd\\ECommerce.Web\\ECommerce.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\ECommerce.Services.AuthAPI\\ECommerce.Services.AuthAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\ECommerce.Services.ProductAPI\\ECommerce.Services.ProductAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\ECommerce.Services.ShoppingCartAPI\\ECommerce.Services.ShoppingCartAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\ECommerce.Services.EmailAPI\\ECommerce.Services.EmailAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ECommerce.Services.PaymentAPI\\ECommerce.Services.PaymentAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
